@@ -1,0 +1,16 @@
+{
+  "name": "ai-git-automation",
+  "version": "1.0.0",
+  "main": "ai-commit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "openai": "^6.49.0"
+  },
+  "description": ""
+}
